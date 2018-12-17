@@ -1,0 +1,19 @@
+
+#contenedor{
+    width:800px;
+    height: 1200px;
+border: 1px;
+    text-align:center;
+    }
+h1,h2,p{
+    text-align: center;
+}
+img{
+    margin: auto;
+}
+
+#encabezado{
+    width: 800px;
+    height: 100px;
+    
+}
